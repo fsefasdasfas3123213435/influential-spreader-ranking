@@ -1,0 +1,2 @@
+﻿method,spearman,kendall,ndcg,top_hit
+M-RCNN,0.4486±0.2103,0.3195±0.1263,0.2845±0.2661,10.2±12.0

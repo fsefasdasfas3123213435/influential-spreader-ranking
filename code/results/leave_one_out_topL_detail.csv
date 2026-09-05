@@ -1,0 +1,13 @@
+﻿test_network,method,spearman,kendall,ndcg_top,top_hit
+email-Eu-core,k-core,0.9841,0.8803,0.9618,86
+email-Eu-core,RRF(XGB+k-core),0.9898,0.9099,0.9834,90
+email-Eu-core,TopL-corrected,0.9898,0.9096,0.9807,86
+Facebook,k-core,0.8249,0.6571,0.9606,67
+Facebook,RRF(XGB+k-core),0.9016,0.7364,0.7095,28
+Facebook,TopL-corrected,0.902,0.7382,0.9599,67
+US-power-grid,k-core,0.5322,0.3089,0.8124,47
+US-power-grid,RRF(XGB+k-core),0.6992,0.5158,0.8438,57
+US-power-grid,TopL-corrected,0.6991,0.5157,0.7992,47
+OpenFlights,k-core,0.8046,0.6197,0.9405,73
+OpenFlights,RRF(XGB+k-core),0.9137,0.7623,0.979,88
+OpenFlights,TopL-corrected,0.9137,0.762,0.9548,73

@@ -1,0 +1,9 @@
+﻿network,method,spearman,kendall,ndcg_top,top_hit,nodes
+US-power-grid,degree,0.6148,0.4238,0.6285,37,4941
+US-power-grid,k-core,0.5322,0.3089,0.8124,47,4941
+US-power-grid,PageRank,0.3914,0.2481,0.4117,15,4941
+US-power-grid,XGBoost,0.7677,0.5907,0.6074,36,4941
+OpenFlights,degree,0.771,0.5864,0.9725,86,2939
+OpenFlights,k-core,0.8046,0.6197,0.9405,73,2939
+OpenFlights,PageRank,0.4441,0.3127,0.8575,66,2939
+OpenFlights,XGBoost,0.8909,0.7291,0.9234,82,2939

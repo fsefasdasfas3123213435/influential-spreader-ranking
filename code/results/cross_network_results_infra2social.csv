@@ -1,0 +1,9 @@
+﻿network,method,spearman,kendall,ndcg_top,top_hit,nodes
+email-Eu-core,degree,0.982,0.8817,0.9914,89,986
+email-Eu-core,k-core,0.9841,0.8803,0.9618,86,986
+email-Eu-core,PageRank,0.9649,0.8398,0.9819,85,986
+email-Eu-core,XGBoost,0.9601,0.823,0.9556,68,986
+Facebook,degree,0.7967,0.6211,0.7768,63,4039
+Facebook,k-core,0.8249,0.6571,0.9606,67,4039
+Facebook,PageRank,0.455,0.3144,0.1813,3,4039
+Facebook,XGBoost,0.8415,0.6272,0.3947,1,4039

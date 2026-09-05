@@ -1,0 +1,5 @@
+﻿test_network,method,spearman,kendall,ndcg_top,top_hit
+email-Eu-core,GCN(same-framework),0.9856,0.8961,0.9903,88
+Facebook,GCN(same-framework),0.6557,0.4548,0.2267,1
+US-power-grid,GCN(same-framework),0.6441,0.4741,0.8604,55
+OpenFlights,GCN(same-framework),0.8813,0.7041,0.9398,77

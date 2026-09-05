@@ -1,0 +1,5 @@
+﻿test_network,method,spearman,kendall,ndcg_top,top_hit
+email-Eu-core,M-RCNN,0.4733,0.3308,0.5441,23
+Facebook,M-RCNN,0.658,0.4505,0.1096,0
+US-power-grid,M-RCNN,0.5058,0.3495,0.4776,18
+OpenFlights,M-RCNN,0.1571,0.1472,0.0068,0

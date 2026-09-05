@@ -1,0 +1,2 @@
+﻿method,spearman,kendall,ndcg_top,top_hit,test_nodes
+XGBoost,0.9258,0.7807,0.9942,96,808

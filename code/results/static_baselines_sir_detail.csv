@@ -1,0 +1,9 @@
+﻿test_network,method,spearman,kendall,ndcg_top,top_hit
+email-Eu-core,CI,0.9875,0.8997,0.9833,87
+email-Eu-core,DomiRank,0.7716,0.592,0.9537,71
+Facebook,CI,0.918,0.7593,0.5082,3
+Facebook,DomiRank,0.5271,0.3679,0.5263,22
+US-power-grid,CI,0.7869,0.6179,0.8776,62
+US-power-grid,DomiRank,0.3979,0.2692,0.4864,25
+OpenFlights,CI,0.8617,0.7007,0.9677,85
+OpenFlights,DomiRank,0.286,0.1906,0.8952,68
